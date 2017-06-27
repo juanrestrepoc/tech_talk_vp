@@ -1,0 +1,23 @@
+{
+  "name": "tech_talk",
+  "version": "1.0.0",
+  "description": "\"# tech_talk_vp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanrestrepoc/tech_talk_vp.git"
+  },
+  "author": "Juan Restrepo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanrestrepoc/tech_talk_vp/issues"
+  },
+  "homepage": "https://github.com/juanrestrepoc/tech_talk_vp#readme",
+  "devDependencies": {
+    "protractor": "^5.1.2",
+    "protractor-jasmine2-screenshot-reporter": "^0.3.5"
+  }
+}
